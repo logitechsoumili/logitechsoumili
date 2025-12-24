@@ -1,12 +1,16 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/logitechsoumili/logitechsoumili/main/gif.gif" height="120" />
-</div>
+<img 
+  src="https://raw.githubusercontent.com/logitechsoumili/logitechsoumili/main/gif.gif"
+  height="140"
+  align="right"
+  alt="Coding girl"
+/>
 
+### 👋 Hi, I'm Soumili!
 
-<h1 align="center">👋Hi, I'm Soumili!</h1>
-
-<p align="center">
-🎓 2nd Year B.Tech CSE (AI & ML) | 🧠 Learning ML by building | 🌐 Kolkata, India
+<p>
+🎓 2nd Year B.Tech CSE (AI & ML)<br>
+🧠 Learning ML by building<br>
+🌐 Kolkata, India
 </p>
 
 ---
