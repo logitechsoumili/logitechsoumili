@@ -36,8 +36,8 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=logitechsoumili&layout=compact&theme=radical)
 ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=logitechsoumili&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=logitechsoumili&layout=compact&theme=radical)
 
 ---
 
