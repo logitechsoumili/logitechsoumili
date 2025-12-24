@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/logitechsoumili/logitechsoumili/main/gif.gif"/>
+</div>
+
 <h1 align="center">👋Hi, I'm Soumili!</h1>
 
 <p align="center">
