@@ -46,7 +46,7 @@
   <a href="https://hackerrank.com/logitechsoumili" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="https://linkedin.com/logitechsoumili" target="_blank">
+  <a href="https://linkedin.com/in/logitechsoumili" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/761425810879021057" target="_blank">
