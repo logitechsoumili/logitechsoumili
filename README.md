@@ -36,8 +36,13 @@
 
 ### 📊 Stats
 
-![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=logitechsoumili&theme=radical)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=logitechsoumili&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=logitechsoumili&theme=rose_pine&hide_border=false" alt="GitHub Streak" />
+</a>
+</p>
+<!-- ![Streak](https://nirzak-streak-stats.vercel.app/?user=logitechsoumili&theme=rose_pine&hide_border=false)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=logitechsoumili&layout=compact&theme=radical) -->
 
 ---
 
