@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Featured Project
+<!-- ### 🚀 Featured Project
 
 ### 🌊 Flood Risk Prediction System
 - ML-based flood risk prediction using historical & weather data  
@@ -32,7 +32,7 @@
 
 🔗 Repository: [Flood Risk Prediction](https://github.com/logitechsoumili/Flood_Prediction_System)
 
----
+--- -->
 
 ### 📊 Stats
 
