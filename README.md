@@ -49,7 +49,7 @@ An end-to-end Machine Learning system deployed via Streamlit for predicting floo
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=logitechsoumili&theme=rose_pine&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=logitechsoumili&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </a>
 </p>
 
