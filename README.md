@@ -8,15 +8,33 @@
 ### 👋 Hi, I'm Soumili!
 
 <p>
-🎓 2nd Year B.Tech CSE (AI & ML)<br>
-🧠 Building real-world ML systems<br>
-🌐 Kolkata, India
+🎓 <b>2nd Year B.Tech CSE (AI & ML)</b><br>
+🧠 Building real-world <b>Machine Learning & AI systems</b><br>
+🌐 Based in <b>Kolkata, India</b>
 </p>
+
+I enjoy building **end-to-end ML applications** that combine **data science, deep learning, and intelligent systems** to solve real-world problems.
 
 ---
 
 ### 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-%23EC4E20.svg?style=for-the-badge) ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 🧭 Currently exploring: RAG-based systems for environmental risk intelligence and multi-domain ML applications in cybersecurity
 
@@ -24,20 +42,29 @@
 
 ### 🚀 Featured Project
 
-## 🌍 Disaster Risk Prediction System
+### 🧬 Environmental AI Healthcare System
 
-An end-to-end Machine Learning system deployed via Streamlit for predicting flood and heatwave risks in Indian cities using real-time environmental and weather data.
+AI system that combines **CNN-based environmental image classification with RAG-powered health insights** to analyze potential disease risks.
 
-### Key Capabilities
-- Data cleaning, preprocessing & feature engineering using Pandas and NumPy  
-- Supervised ML models including RandomForest and XGBoost  
-- Hydrological indicator and heat stress parameter computation  
-- Multi-level risk classification (Low / Moderate / High / Extreme)  
-- Real-time weather API integration  
-- Confidence-based prediction system  
-- Interactive Streamlit dashboard with geospatial visualization  
+* **EfficientNetB0 CNN** for environmental image classification
+* Detects risk indicators (garbage, stagnant water, pollution, hygienic areas)
+* **Confidence-based predictions using softmax probabilities**
+* **RAG pipeline with LLaMA 3.2 (Ollama)** for disease awareness & recommendations
+* **Flask web application** for real-time analysis and reports
 
-🔗 Repository: [Disaster Risk Prediction](https://github.com/logitechsoumili/Disaster_Risk_Prediction)
+🔗 [Repository](https://github.com/logitechsoumili/Environmental_AI_Healthcare_System)
+
+### 🌍 Disaster Risk Prediction System
+
+End-to-end **Machine Learning system** that predicts **flood and heatwave risks in Indian cities** using environmental and real-time weather data.
+
+* Feature Engineering with **Pandas / NumPy**
+* ML models: **RandomForest & XGBoost**
+* **Risk classification** (Low → High) with confidence scores
+* **Real-time weather API integration**
+* **Streamlit dashboard with geospatial visualization**
+
+🔗 [Repository](https://github.com/logitechsoumili/Disaster_Risk_Prediction)
 
 ---
 
