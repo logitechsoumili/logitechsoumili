@@ -13,8 +13,6 @@
 🌐 Kolkata, India
 </p>
 
-> I enjoy building ML & AI systems that solve real-world environmental and health challenges through data-driven insights.
-
 ---
 
 ### 💻 Tech Stack
