@@ -13,7 +13,7 @@
 🌐 Kolkata, India
 </p>
 
-> ⚡ **Quick Bio:** Currently bridging the gap between academic research and real-world ML applications. I enjoy building systems that solve environmental and health challenges through data-driven insights.
+> I enjoy building ML & AI systems that solve real-world environmental and health challenges through data-driven insights.
 
 ---
 
@@ -47,10 +47,14 @@
 ### 🚀 Featured Projects
 
 #### 🧬 [Environmental AI Healthcare System](https://github.com/logitechsoumili/Environmental_AI_Healthcare_System)
-End-to-end AI system combining **EfficientNetB0 CNN** for environmental image classification with a **local LLaMA 3.2 model via Ollama in a RAG pipeline** to generate environmental health risk insights.
+- **Tech:** EfficientNetB0, Ollama (LLaMA 3.2), FAISS, RAG Pipeline.
+- **Impact:** Developed an end-to-end system for environmental image classification and health risk generation.
+- **Highlight:** Integrated local LLMs with a vector database for privacy-focused health insights.
 
 #### 🌍 [Disaster Risk Prediction System](https://github.com/logitechsoumili/Disaster_Risk_Prediction)
-ML-based real-time disaster forecasting system using **XGBoost and Random Forest models** to predict flood and heatwave risks in Indian cities, deployed as a **Streamlit dashboard with OpenWeather API integration**.
+- **Tech:** XGBoost, Random Forest, Streamlit, OpenWeather API.
+- **Impact:** Achieved **98% accuracy** in predicting flood and heatwave risks for urban Indian cities.
+- **Deployment:** [Live dashboard](https://disaster-risk-prediction.streamlit.app/) featuring real-time data ingestion and visualization.
 
 ---
 
@@ -71,17 +75,17 @@ ML-based real-time disaster forecasting system using **XGBoost and Random Forest
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Let's Connect!
 
   <a href="https://linkedin.com/in/logitechsoumili" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="mailto:logitechsoumili@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://github.com/logitechsoumili" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="https://discordapp.com/users/761425810879021057" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
