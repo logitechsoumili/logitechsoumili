@@ -9,7 +9,7 @@
 
 <p>
 🎓 <b>2nd Year B.Tech CSE (AI & ML)</b><br>
-🧠 Building practical <b>ML, Computer Vision, and AI applications</b><br>
+🧠 Building real-world <b>ML, Computer Vision, and AI applications</b><br>
 🌐 Kolkata, India
 </p>
 
