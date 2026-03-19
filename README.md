@@ -46,7 +46,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🧬 [Environmental Disease Risk AI](https://github.com/logitechsoumili/Environmental-Disease-Risk-AI)
+#### 🧬 [Environmental AI Healthcare System](https://github.com/logitechsoumili/Environmental_AI_Healthcare_System)
 - **Tech:** EfficientNetB0, Ollama (LLaMA 3.2), FAISS, RAG Pipeline.
 - **Impact:** Developed an end-to-end system for environmental image classification and health risk generation.
 - **Highlight:** Integrated local LLMs with a vector database for privacy-focused health insights.
