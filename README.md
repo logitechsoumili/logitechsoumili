@@ -64,17 +64,17 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logitechsoumili&theme=rose_pine&hide_border=false" />
 </p>
 
-<!--<p align="center">
+<p align="center">
   <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app/?user=logitechsoumili&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </a>
-</p>-->
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=logitechsoumili&theme=rose-pine" alt="GitHub Streak" />
-</a>
 </p>
+
+<!--<p align="center">
+  <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=logitechsoumili&theme=rose-pine&hide_border=true" alt="GitHub Streak" />
+</a>
+</p>-->
 
 <!-- ![Streak](https://nirzak-streak-stats.vercel.app/?user=logitechsoumili&theme=rose_pine&hide_border=false)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=logitechsoumili&layout=compact&theme=radical) -->
