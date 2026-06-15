@@ -25,7 +25,7 @@
     <p>📍 Kolkata, India</p>
   </div>
 
-  <img src="./assets/gifs/girl.gif" height="160"/>
+  <img src="./assets/gifs/girl.gif" height="140"/>
 
 </div>
 
