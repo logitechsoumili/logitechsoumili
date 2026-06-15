@@ -3,40 +3,25 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D75172&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Soumili+Saha;Building+Research+%26+Automation+Tools;Exploring+Computer+Vision%2C+RAG+%26+ML+Engineering"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D75172&center=true&vCenter=false&width=700&lines=Hi%2C+I'm+Soumili+Saha;Building+Research+%26+Automation+Tools;Exploring+Computer+Vision%2C+RAG+%26+ML+Engineering"
       alt="Typing SVG"
     />
   </a>
 </p>
 
-<br>
 
-<table>
-<tr>
-
-<td width="65%" valign="middle">
+<img
+  src="./assets/gifs/girl.gif"
+  height="180"
+  align="right"
+  alt="Coding Girl"
+/>
 
 🎓 B.Tech CSE (AI & ML) | Minor in Cybersecurity
 
 💡 Turning research ideas into practical AI applications
 
 📍 Kolkata, India
-
-</td>
-
-<td width="35%" align="center">
-
-<img
-  src="./assets/gifs/girl.gif"
-  height="140"
-  alt="Coding Girl"
-/>
-
-</td>
-
-</tr>
-</table>
-```
 
 
 ---
