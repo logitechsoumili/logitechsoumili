@@ -12,9 +12,9 @@
 <p>
   <img src="./assets/gifs/girl.gif" height="140" align="right" style="float: right; margin-left: 10px;"/>
   
-  🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b><br>
-  🚀 Building AI systems, automation tools, and ML projects<br>
-  🔬 Interested in Computer Vision, RAG, and ML Engineering<br>
+  🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b><br><br>
+  🚀 Building AI systems, automation tools, and ML projects<br><br>
+  🔬 Interested in Computer Vision, RAG, and ML Engineering<br><br>
   📍 Kolkata, India
 </p>
 
