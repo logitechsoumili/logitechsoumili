@@ -9,6 +9,7 @@
   </a>
 </p>
 
+<br>
 
 <img
   src="./assets/gifs/girl.gif"
