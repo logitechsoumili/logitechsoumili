@@ -17,18 +17,14 @@
   📍 Kolkata, India
 </p> -->
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <td align="left" valign="middle" style="border: none; padding: 0;">
-      🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b><br><br>
-      💡 Turning research ideas into practical AI applications<br><br>
-      📍 Kolkata, India
-    </td>
-    <td align="right" valign="middle" style="border: none; padding: 0;">
-      <img src="./assets/gifs/girl.gif" height="160" />
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <img src="./assets/gifs/girl.gif" height="160" style="float: right; margin-left: 20px;" />
+</p>
+
+🎓 **B.Tech CSE (AI & ML) | Minor in Cybersecurity** 💡 Turning research ideas into practical AI applications  
+📍 Kolkata, India  
+
+<br clear="right"/>
 
 
 ---
