@@ -12,10 +12,12 @@
 <p>
   <img src="./assets/gifs/girl.gif" height="130" align="right" style="float: right; margin-left: 10px;"/>
   
-  🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b><br><br><br>
-  💡 Turning research ideas into practical AI applications<br><br><br>
+  🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b><br>
+  💡 Turning research ideas into practical AI applications<br>
   📍 Kolkata, India
 </p>
+
+<br clear="right"/>
 
 
 ---
