@@ -9,23 +9,15 @@
   </a>
 </p>
 
-<table>
-<tr>
-<td width="70%">
+<p align="right">
+  <img src="./assets/gifs/girl.gif" height="160"/>
+</p>
 
 🎓 B.Tech CSE (AI & ML) | Minor in Cybersecurity
 
 💡 Turning research ideas into practical AI applications
 
 📍 Kolkata, India
-
-</td>
-
-<td width="30%" align="center">
-<img src="./assets/gifs/girl.gif" height="140">
-</td>
-</tr>
-</table>
 
 
 ---
