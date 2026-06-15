@@ -9,13 +9,25 @@
   </a>
 </p>
 
-<p>
+<!-- <p>
   <img src="./assets/gifs/girl.gif" height="120" align="right" style="float: right; margin-left: 10px;"/>
   
   🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b><br><br>
   💡 Turning research ideas into practical AI applications<br><br>
   📍 Kolkata, India
-</p>
+</p> -->
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  
+  <div>
+    <p>🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b></p>
+    <p>💡 Turning research ideas into practical AI applications</p>
+    <p>📍 Kolkata, India</p>
+  </div>
+
+  <img src="./assets/gifs/girl.gif" height="160"/>
+
+</div>
 
 
 ---
