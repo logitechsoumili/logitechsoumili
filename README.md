@@ -10,12 +10,12 @@
 </p>
 
 <p>
-  <img src="./assets/gifs/girl.gif" height="150" align="right" style="float: right; margin-left: 10px;"/>
+  <img src="./assets/gifs/girl.gif" height="160" align="right" style="float: right; margin-left: 10px;"/>
   
-  🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b><br><br>
-  🧩 Passionate about solving real-world problems through technology<br><br>
-  📚 Exploring the intersection of AI, software engineering, and research<br><br>
-  💌 Open to internships, collaborations, and research opportunities<br><br>
+  🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b><br>
+  🧩 Passionate about solving real-world problems through technology<br>
+  📚 Exploring the intersection of AI, software engineering, and research<br>
+  💌 Open to internships, collaborations, and research opportunities<br>s
   📍 Kolkata, India
 </p>
 
