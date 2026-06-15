@@ -9,20 +9,23 @@
   </a>
 </p>
 
-<br>
-
-<img
-  src="./assets/gifs/girl.gif"
-  height="180"
-  align="right"
-  alt="Coding Girl"
-/>
+<table>
+<tr>
+<td width="70%">
 
 🎓 B.Tech CSE (AI & ML) | Minor in Cybersecurity
 
 💡 Turning research ideas into practical AI applications
 
 📍 Kolkata, India
+
+</td>
+
+<td width="30%" align="center">
+<img src="./assets/gifs/girl.gif" height="140">
+</td>
+</tr>
+</table>
 
 
 ---
