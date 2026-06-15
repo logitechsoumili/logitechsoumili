@@ -1,17 +1,43 @@
-<img 
-  src="https://raw.githubusercontent.com/logitechsoumili/logitechsoumili/main/gif.gif"
+<!-- Hero Banner -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D75172&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Soumili+Saha;Building+Research+%26+Automation+Tools;Exploring+Computer+Vision%2C+RAG+%26+ML+Engineering"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="65%" valign="middle">
+
+🎓 B.Tech CSE (AI & ML) | Minor in Cybersecurity
+
+💡 Turning research ideas into practical AI applications
+
+📍 Kolkata, India
+
+</td>
+
+<td width="35%" align="center">
+
+<img
+  src="./assets/gifs/girl.gif"
   height="140"
-  align="right"
-  alt="Coding girl"
+  alt="Coding Girl"
 />
 
-### 👋 Hi, I'm Soumili!
+</td>
 
-<p>
-🎓 <b>2nd Year B.Tech CSE (AI & ML)</b><br>
-🧠 Building real-world <b>ML, Computer Vision, and AI applications</b><br>
-🌐 Kolkata, India
-</p>
+</tr>
+</table>
+```
+
 
 ---
 
