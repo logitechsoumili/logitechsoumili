@@ -10,10 +10,11 @@
 </p>
 
 <p>
-  <img src="./assets/gifs/girl.gif" height="120" align="right" style="float: right; margin-left: 10px;"/>
+  <img src="./assets/gifs/girl.gif" height="140" align="right" style="float: right; margin-left: 10px;"/>
   
-  🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b><br><br>
-  💡 Turning research ideas into practical AI applications<br><br>
+  🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b><br>
+  🚀 Building AI systems, automation tools, and ML projects<br>
+  🔬 Interested in Computer Vision, RAG, and ML Engineering<br>
   📍 Kolkata, India
 </p>
 
