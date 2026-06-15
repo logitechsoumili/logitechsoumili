@@ -9,22 +9,13 @@
   </a>
 </p>
 
-<!-- <p>
+<p>
   <img src="./assets/gifs/girl.gif" height="120" align="right" style="float: right; margin-left: 10px;"/>
   
   🎓 <b>B.Tech CSE (AI & ML) | Minor in Cybersecurity</b><br><br>
   💡 Turning research ideas into practical AI applications<br><br>
   📍 Kolkata, India
-</p> -->
-
-<p align="right">
-  <img src="./assets/gifs/girl.gif" height="160" style="float: right; margin-left: 20px;" />
 </p>
-
-🎓 **B.Tech CSE (AI & ML) | Minor in Cybersecurity** 💡 Turning research ideas into practical AI applications  
-📍 Kolkata, India  
-
-<br clear="right"/>
 
 
 ---
