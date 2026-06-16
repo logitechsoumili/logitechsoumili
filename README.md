@@ -19,8 +19,6 @@
   📍 Kolkata, India
 </p>
 
----
-
 ## 💻 Tech Stack
 
 ### 🤖 AI / Data Science
@@ -34,8 +32,6 @@
 ### ☁️ Infrastructure & Tools
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
 
 <!-- ====================================================== -->
 <!-- FEATURED PROJECTS -->
@@ -129,7 +125,7 @@ Projects currently under active development.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=career-os&theme=rose_pine)](https://github.com/logitechsoumili/career-os)
 
 
-### 📊 Stats
+## 📊 Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logitechsoumili&theme=rose_pine&hide_border=false" />
@@ -156,7 +152,7 @@ Projects currently under active development.
   <img src="./profile-3d-contrib/profile-night-green.svg" />
 </p>
 
-### 🔗 Let's Connect!
+## 🔗 Let's Connect!
 
 <p align="center">
   <a href="https://soumili.is-a.dev">
