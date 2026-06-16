@@ -61,7 +61,7 @@ Click the repository card below to view the source code.
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=Environmental_AI_Healthcare_System&theme=rose_pine&cache_seconds=1800)](https://github.com/logitechsoumili/Environmental_AI_Healthcare_System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=Environmental_AI_Healthcare_System&theme=rose_pine&cache_seconds=1800&hide_border=true)](https://github.com/logitechsoumili/Environmental_AI_Healthcare_System)
 
 </td>
 
@@ -73,7 +73,7 @@ Click the repository card below to view the source code.
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=Disaster_Risk_Prediction&theme=rose_pine)](https://github.com/logitechsoumili/Disaster_Risk_Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=Disaster_Risk_Prediction&theme=rose_pine&hide_border=true)](https://github.com/logitechsoumili/Disaster_Risk_Prediction)
 
 </td>
 
@@ -93,7 +93,7 @@ Click the repository card below to view the source code.
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=CortexArena&theme=rose_pine)](https://github.com/logitechsoumili/CortexArena)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=CortexArena&theme=rose_pine&hide_border=true)](https://github.com/logitechsoumili/CortexArena)
 
 </td>
 
@@ -105,7 +105,7 @@ Click the repository card below to view the source code.
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rupu-techu&repo=AidFLow&theme=rose_pine)](https://github.com/Rupu-techu/AidFLow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rupu-techu&repo=AidFLow&theme=rose_pine&hide_border=true)](https://github.com/Rupu-techu/AidFLow)
 
 </td>
 
