@@ -41,12 +41,12 @@ Click the repository card below to view the source code.
 <td width="50%">
 
 <a href="https://github.com/logitechsoumili/Environmental_AI_Healthcare_System">
-<img src="./assets/projects/environment.png" width="100%">
+<img src="./assets/projects/environment.png?v=2" width="100%">
 </a>
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=Environmental_AI_Healthcare_System&theme=rose_pine)](https://github.com/logitechsoumili/Environmental_AI_Healthcare_System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=Environmental_AI_Healthcare_System&theme=rose_pine&cache_seconds=1800)](https://github.com/logitechsoumili/Environmental_AI_Healthcare_System)
 
 </td>
 
@@ -85,7 +85,7 @@ Click the repository card below to view the source code.
 <td width="50%">
 
 <a href="https://aidflow-ai.vercel.app">
-<img src="./assets/projects/aidflow.png" width="100%">
+<img src="./assets/projects/aidflow.png?v=2" width="100%">
 </a>
 
 <br>
