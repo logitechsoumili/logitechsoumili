@@ -150,6 +150,12 @@ Projects currently under active development.
 <!-- ![Streak](https://nirzak-streak-stats.vercel.app/?user=logitechsoumili&theme=rose_pine&hide_border=false)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=logitechsoumili&layout=compact&theme=radical) -->
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" />
+</p>
+
 ### 🔗 Let's Connect!
 
 <p align="center">
