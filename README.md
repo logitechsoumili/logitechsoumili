@@ -40,7 +40,7 @@
 <h2>🚀 Featured Projects</h2>
 
 <p align="center">
-Click a project preview to visit the live application.<br>
+Click a project preview to visit the live application (if available).<br>
 Click the repository card below to view the source code.
 </p>
 
@@ -113,10 +113,6 @@ Click the repository card below to view the source code.
 <!-- ====================================================== -->
 
 <h2>🛠️ Work In Progress</h2>
-
-<p align="center">
-Projects currently under active development.
-</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=cloud_anomaly_detection_system&theme=rose_pine&cache_seconds=1800)](https://github.com/logitechsoumili/cloud_anomaly_detection_system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=gapforge&theme=rose_pine)](https://github.com/logitechsoumili/gapforge)
