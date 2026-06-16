@@ -149,21 +149,26 @@ Click the repository card below to view the source code.
 </p>
 
 ## 🔗 Let's Connect!
+<div align="center">
 
-<p align="center">
-  <a href="https://soumili.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-BD4F6C?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/logitechsoumili">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codolio.com/profile/logitechsoumili">
-    <img src="https://img.shields.io/badge/Codolio-907AA9?style=for-the-badge" />
-  </a>
-  <a href="mailto:logitechsoumili@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/761425810879021057">
-    <img src="https://dcbadge.limes.pink/api/shield/761425810879021057?compact=true" />
-  </a>
-</p>
+<a href="https://soumili.is-a.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=%23C2185B&labelColor=f9e0ea" alt="Portfolio Badge"/>
+</a>
+
+<a href="https://linkedin.com/in/logitechsoumili" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&labelColor=f9e0ea" alt="LinkedIn Badge"/>
+</a>
+
+<a href="https://codolio.com/profile/logitechsoumili" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-white?style=for-the-badge&logo=codeforces&logoColor=%23FF9800&labelColor=f9e0ea" alt="Codolio Badge"/>
+</a>
+
+<a href="mailto:logitechsoumili@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=f9e0ea" alt="Gmail Badge"/>
+</a>
+
+<a href="https://discord.com/users/761425810879021057" target="_blank">
+  <img src="https://img.shields.io/badge/%40xsomi-white?style=for-the-badge&logo=discord&logoColor=%235865F2&labelColor=f9e0ea" alt="Discord Badge"/>
+</a>
+
+</div>
