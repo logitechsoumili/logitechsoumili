@@ -107,13 +107,11 @@ Click the repository card below to view the source code.
 Projects currently under active development.
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=cloud_anomaly_detection_system&theme=rose_pine)](https://github.com/logitechsoumili/cloud_anomaly_detection_system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=cloud_anomaly_detection_system&theme=rose_pine&cache_seconds=1800)](https://github.com/logitechsoumili/cloud_anomaly_detection_system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=gapforge&theme=rose_pine)](https://github.com/logitechsoumili/gapforge)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=bms-ticket-monitor&theme=rose_pine)](https://github.com/logitechsoumili/bms-ticket-monitor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=bms-ticket-monitor&theme=rose_pine&cache_seconds=1800)](https://github.com/logitechsoumili/bms-ticket-monitor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=career-os&theme=rose_pine)](https://github.com/logitechsoumili/career-os)
-
-
 
 ---
 
@@ -143,22 +141,6 @@ Projects currently under active development.
 
 
 🧭 Currently exploring: Computer Vision, Retrieval-Augmented Generation (RAG), and ML deployment.
-
----
-
-### 🚀 Featured Projects
-
-#### 🧬 [Environmental AI Healthcare System](https://github.com/logitechsoumili/Environmental_AI_Healthcare_System)
-- **Tech:** EfficientNetB0, Ollama (LLaMA 3.2), FAISS, RAG Pipeline.
-- **Impact:** Developed an end-to-end system for environmental image classification and health risk generation.
-- **Highlight:** Integrated local LLMs with a vector database for privacy-focused health insights.
-
-#### 🌍 [Disaster Risk Prediction System](https://github.com/logitechsoumili/Disaster_Risk_Prediction)
-- **Tech:** XGBoost, Random Forest, Streamlit, OpenWeather API.
-- **Impact:** Achieved **98% accuracy** in predicting flood and heatwave risks for urban Indian cities.
-- **Deployment:** [Live dashboard](https://disaster-risk-prediction.streamlit.app/) featuring real-time data ingestion and visualization.
-
----
 
 ### 📊 Stats
 
