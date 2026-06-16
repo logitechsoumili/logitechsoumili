@@ -22,6 +22,101 @@
 
 ---
 
+<!-- ====================================================== -->
+<!-- FEATURED PROJECTS -->
+<!-- ====================================================== -->
+
+<h2>🚀 Featured Projects</h2>
+
+<p align="center">
+Click a project preview to visit the live application.<br>
+Click the repository card below to view the source code.
+</p>
+
+<!-- Row 1 -->
+
+<table>
+<tr>
+
+<td width="50%">
+
+<a href="https://github.com/logitechsoumili/Environmental_AI_Healthcare_System">
+<img src="./assets/projects/environment.png" width="100%">
+</a>
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=Environmental_AI_Healthcare_System&theme=rose_pine)](https://github.com/logitechsoumili/Environmental_AI_Healthcare_System)
+
+</td>
+
+<td width="50%">
+
+<a href="https://disaster-risk-prediction.streamlit.app">
+<img src="./assets/projects/disaster.png" width="100%">
+</a>
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=Disaster_Risk_Prediction&theme=rose_pine)](https://github.com/logitechsoumili/Disaster_Risk_Prediction)
+
+</td>
+
+</tr>
+</table>
+
+<!-- Row 2 -->
+
+<table>
+<tr>
+
+<td width="50%">
+
+<a href="https://cortex-frontend-263130631276.asia-south1.run.app">
+<img src="./assets/projects/cortex.png" width="100%">
+</a>
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=CortexArena&theme=rose_pine)](https://github.com/logitechsoumili/CortexArena)
+
+</td>
+
+<td width="50%">
+
+<a href="https://aidflow-ai.vercel.app">
+<img src="./assets/projects/aidflow.png" width="100%">
+</a>
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rupu-techu&repo=AidFLow&theme=rose_pine)](https://github.com/Rupu-techu/AidFLow)
+
+</td>
+
+</tr>
+</table>
+
+<!-- ====================================================== -->
+<!-- WORK IN PROGRESS -->
+<!-- ====================================================== -->
+
+<h2>🛠️ Work In Progress</h2>
+
+<p align="center">
+Projects currently under active development.
+</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=cloud_anomaly_detection_system&theme=rose_pine)](https://github.com/logitechsoumili/cloud_anomaly_detection_system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=gapforge&theme=rose_pine)](https://github.com/logitechsoumili/gapforge)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=bms-ticket-monitor&theme=rose_pine)](https://github.com/logitechsoumili/bms-ticket-monitor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=career-os&theme=rose_pine)](https://github.com/logitechsoumili/career-os)
+
+
+
+---
+
 ### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
