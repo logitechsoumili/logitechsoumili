@@ -152,8 +152,20 @@ Projects currently under active development.
 
 ### 🔗 Let's Connect!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://soumili.is-a.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/logitechsoumili)
-[![Codolio](https://img.shields.io/badge/Codolio-4F46E5?style=for-the-badge)](https://codolio.com/profile/logitechsoumili)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:logitechsoumili@gmail.com)
-[![](https://dcbadge.limes.pink/api/shield/761425810879021057)](https://discordapp.com/users/761425810879021057)
+<p align="center">
+  <a href="https://soumili.is-a.dev">
+    <img src="https://img.shields.io/badge/Portfolio-BD4F6C?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/logitechsoumili">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codolio.com/profile/logitechsoumili">
+    <img src="https://img.shields.io/badge/Codolio-907AA9?style=for-the-badge" />
+  </a>
+  <a href="mailto:logitechsoumili@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/761425810879021057">
+    <img src="https://dcbadge.limes.pink/api/shield/761425810879021057?compact=true" />
+  </a>
+</p>
