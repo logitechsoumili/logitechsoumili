@@ -1,6 +1,10 @@
 <!-- Hero Banner -->
 
 <p align="center">
+  <img src="./assets/gifs/github-hero-banner.svg" alt="Hero Banner" width="100%" />
+</p>
+
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D75172&center=true&vCenter=false&width=700&lines=Hi%2C+I'm+Soumili+Saha;Building+Research+%26+Automation+Tools;Exploring+Computer+Vision%2C+RAG+%26+ML+Engineering"
@@ -17,7 +21,7 @@
   📚 Exploring the intersection of AI, software engineering, and research<br><br>
   💌 Open to internships, collaborations, and research opportunities<br><br>
   📍 Kolkata, India
-</p>
+</p> -->
 
 ## 💻 Tech Stack
 
