@@ -23,7 +23,7 @@
   📍 Kolkata, India
 </p> -->
 
-## 💻 Tech Stack
+<!-- ## 💻 Tech Stack
 
 ### 🤖 AI / Data Science
 
@@ -35,7 +35,49 @@
 
 ### ☁️ Infrastructure & Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) -->
+
+## 💻 Tech Stack
+
+### 🤖 AI / Data Science
+
+<p>
+<img src="https://custom-icon-badges.demolab.com/badge/Python-D8D0EE?style=for-the-badge&logo=python&logoColor=white&labelColor=3670A0" alt="Python"/>
+<img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-D8D0EE?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" alt="TensorFlow"/>
+<img src="https://custom-icon-badges.demolab.com/badge/PyTorch-D8D0EE?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C" alt="PyTorch"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Scikit--Learn-D8D0EE?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=F7931E" alt="Scikit-Learn"/>
+<img src="https://custom-icon-badges.demolab.com/badge/XGBoost-D8D0EE?style=for-the-badge&labelColor=AA0000" alt="XGBoost"/>
+<img src="https://custom-icon-badges.demolab.com/badge/NumPy-D8D0EE?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Pandas-D8D0EE?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-D8D0EE?style=for-the-badge&labelColor=11557C" alt="Matplotlib"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Jupyter-D8D0EE?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626" alt="Jupyter"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Google_Colab-D8D0EE?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=F9AB00" alt="Google Colab"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Ollama-D8D0EE?style=for-the-badge&logo=ollama&logoColor=white&labelColor=000000" alt="Ollama"/>
+</p>
+
+### 🌐 Development
+
+<p>
+<img src="https://custom-icon-badges.demolab.com/badge/Java-D8D0EE?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" alt="Java"/>
+<img src="https://custom-icon-badges.demolab.com/badge/C-D8D0EE?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C" alt="C"/>
+<img src="https://custom-icon-badges.demolab.com/badge/JavaScript-D8D0EE?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Flask-D8D0EE?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" alt="Flask"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Streamlit-D8D0EE?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=FF4B4B" alt="Streamlit"/>
+<img src="https://custom-icon-badges.demolab.com/badge/HTML5-D8D0EE?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
+<img src="https://custom-icon-badges.demolab.com/badge/CSS3-D8D0EE?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
+</p>
+
+### ☁️ Infrastructure & Tools
+
+<p>
+<img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-D8D0EE?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192" alt="PostgreSQL"/>
+<img src="https://custom-icon-badges.demolab.com/badge/MySQL-D8D0EE?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Docker-D8D0EE?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Google_Cloud-D8D0EE?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=4285F4" alt="Google Cloud"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Git-D8D0EE?style=for-the-badge&logo=git&logoColor=white&labelColor=F05033" alt="Git"/>
+<img src="https://custom-icon-badges.demolab.com/badge/GitHub-D8D0EE?style=for-the-badge&logo=github&logoColor=white&labelColor=121011" alt="GitHub"/>
+<img src="https://custom-icon-badges.demolab.com/badge/VS_Code-D8D0EE?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="VS Code"/>
+</p>
 
 <!-- ====================================================== -->
 <!-- FEATURED PROJECTS -->
