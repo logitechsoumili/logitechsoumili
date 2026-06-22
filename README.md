@@ -160,7 +160,7 @@ Click the repository card below to view the source code.
 
 <h2>🛠️ Work In Progress</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=cloud_anomaly_detection_system&theme=rose_pine&cache_seconds=1800)](https://github.com/logitechsoumili/cloud_anomaly_detection_system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soumi-saha12&repo=cloud_anomaly_detection_system&theme=rose_pine&cache_seconds=1800)](https://github.com/soumi-saha12/cloud_anomaly_detection_system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=PaperYield&theme=rose_pine)](https://github.com/logitechsoumili/PaperYield)
 
 
