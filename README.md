@@ -141,13 +141,13 @@ Click the repository card below to view the source code.
 
 <td width="50%">
 
-<a href="https://aidflow-ai.vercel.app">
-<img src="./assets/projects/aidflow.png?v=2" width="100%">
+<a href="https://cloud-anomaly-detection-system.vercel.app">
+<img src="./assets/projects/cloud.png?v=2" width="100%">
 </a>
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rupu-techu&repo=AidFLow&theme=rose_pine&hide_border=true)](https://github.com/Rupu-techu/AidFLow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soumi-saha12&repo=cloud_anomaly_detection_system&theme=rose_pine&hide_border=true)](https://github.com/soumi-saha12/cloud_anomaly_detection_system)
 
 </td>
 
@@ -160,8 +160,8 @@ Click the repository card below to view the source code.
 
 <h2>🛠️ Work In Progress</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soumi-saha12&repo=cloud_anomaly_detection_system&theme=rose_pine&cache_seconds=1800)](https://github.com/soumi-saha12/cloud_anomaly_detection_system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=PaperYield&theme=rose_pine)](https://github.com/logitechsoumili/PaperYield)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=career-os&theme=rose_pine&cache_seconds=1800)](https://github.com/logitechsoumili/career-os)
 
 
 ## 📊 Stats
