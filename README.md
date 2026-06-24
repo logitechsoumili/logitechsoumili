@@ -158,10 +158,19 @@ Click the repository card below to view the source code.
 <!-- WORK IN PROGRESS -->
 <!-- ====================================================== -->
 
+🚧 work in progress
+
+currently building:
+- PaperYield — AI-powered research intelligence platform
+- Career OS — personal career management system
+
+public repositories will be available once development milestones are completed.
+
+<!-- 
 <h2>🛠️ Work In Progress</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=PaperYield&theme=rose_pine)](https://github.com/logitechsoumili/PaperYield)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=career-os&theme=rose_pine&cache_seconds=1800)](https://github.com/logitechsoumili/career-os)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=logitechsoumili&repo=career-os&theme=rose_pine&cache_seconds=1800)](https://github.com/logitechsoumili/career-os) -->
 
 
 ## 📊 Stats
