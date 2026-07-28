@@ -3,15 +3,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/logitechsoumili/logitechsoumili/main/assets/dark.svg"
+      srcset="https://raw.githubusercontent.com/logitechsoumili/logitechsoumili/main/assets/gifs/dark.svg"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/logitechsoumili/logitechsoumili/main/assets/light.svg"
+      srcset="https://raw.githubusercontent.com/logitechsoumili/logitechsoumili/main/assets/gifs/light.svg"
     >
     <img
       alt="Soumili Saha — AI Systems & ML Engineer"
-      src="https://raw.githubusercontent.com/logitechsoumili/logitechsoumili/main/assets/dark.svg"
+      src="https://raw.githubusercontent.com/logitechsoumili/logitechsoumili/main/assets/gifs/dark.svg"
     >
   </picture>
 
