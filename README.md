@@ -15,9 +15,9 @@
     >
   </picture>
 
-</div>
+# Soumili Saha
 
-<div align="center">
+Software Engineering · AI/ML · Backend Development · Research
 
 <a href="https://soumili.is-a.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=%23C2185B&labelColor=f9e0ea" alt="Portfolio Badge"/>
