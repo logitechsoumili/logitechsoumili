@@ -39,4 +39,7 @@ Software Engineering · AI/ML · Backend Development · Research
   <img src="https://img.shields.io/badge/%40xsomi-white?style=for-the-badge&logo=discord&logoColor=%235865F2&labelColor=f9e0ea" alt="Discord Badge"/>
 </a>
 
+
+<img src="./assets/contributions.svg" width="860" alt="Soumili Saha's GitHub contribution graph — auto-refreshed daily" />
+
 </div>
