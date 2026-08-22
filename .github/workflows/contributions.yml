@@ -26,22 +26,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
+      - name: Prepare directories
+        run: |
+          mkdir -p assets
+          mkdir -p data
+
       - name: Fetch contribution data
         run: python scripts/fetch_contributions.py
 
       - name: Render contribution graph
         run: python scripts/render_heatmap_svg.py
-
-      - name: Prepare generated output
-        run: |
-          mkdir -p /tmp/generated/assets
-          mkdir -p /tmp/generated/data
-
-          cp assets/contributions.svg \
-             /tmp/generated/assets/contributions.svg
-
-          cp data/contributions.json \
-             /tmp/generated/data/contributions.json
 
       - name: Checkout output branch
         uses: actions/checkout@v4
@@ -54,10 +48,10 @@ jobs:
           mkdir -p output-branch/assets
           mkdir -p output-branch/data
 
-          cp /tmp/generated/assets/contributions.svg \
+          cp assets/contributions.svg \
              output-branch/assets/contributions.svg
 
-          cp /tmp/generated/data/contributions.json \
+          cp data/contributions.json \
              output-branch/data/contributions.json
 
       - name: Commit generated output
