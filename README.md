@@ -41,6 +41,10 @@ Software Engineering · AI/ML · Backend Development · Research
 
 <p></p>
 
-<img src="./assets/contributions.svg" width="860" alt="Soumili Saha's GitHub contribution graph — auto-refreshed daily" />
+<img
+  src="https://raw.githubusercontent.com/logitechsoumili/logitechsoumili/output/assets/contributions.svg"
+  width="860"
+  alt="Soumili Saha's GitHub contribution graph — auto-refreshed daily"
+/>
 
 </div>
