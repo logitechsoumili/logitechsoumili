@@ -1,39 +1,76 @@
 name: Update contributions
 
-# Refreshes the contribution graph SVG on a 5-minute cadence.
-# Runs every 5 minutes, plus whenever you push to main, plus on-demand.
-
-"on":
+on:
   schedule:
-    - cron: "0 0 * * *"   
-  workflow_dispatch: {}
-  push:
-    branches: [main]
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  heatmap:
+  generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Scrape real contribution data (no auth needed)
+      - name: Fetch contribution data
         run: python scripts/fetch_contributions.py
 
-      - name: Render contribution graph SVG (boxes)
+      - name: Render contribution graph
         run: python scripts/render_heatmap_svg.py
 
-      - name: Commit updated art
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Prepare generated output
+        run: |
+          mkdir -p /tmp/generated/assets
+          mkdir -p /tmp/generated/data
+
+          cp assets/contributions.svg \
+             /tmp/generated/assets/contributions.svg
+
+          cp data/contributions.json \
+             /tmp/generated/data/contributions.json
+
+      - name: Checkout output branch
+        uses: actions/checkout@v4
         with:
-          commit_message: "chore: update contribution graph [skip ci]"
-          file_pattern: "data/contributions.json assets/contributions.svg"
+          ref: output
+          path: output-branch
+
+      - name: Copy generated files
+        run: |
+          mkdir -p output-branch/assets
+          mkdir -p output-branch/data
+
+          cp /tmp/generated/assets/contributions.svg \
+             output-branch/assets/contributions.svg
+
+          cp /tmp/generated/data/contributions.json \
+             output-branch/data/contributions.json
+
+      - name: Commit generated output
+        working-directory: output-branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/contributions.svg data/contributions.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update generated contributions"
+            git push origin output
+          fi
